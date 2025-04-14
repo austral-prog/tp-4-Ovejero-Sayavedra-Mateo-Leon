@@ -12,10 +12,6 @@ def line():
     P1_str = (f"P1 ({X1}, {Y1})")
     P2_str = (f"P2 ({X2}, {Y2})")
     
-    # print (A)
-    # print (B)
-    # print (C_X1)
-    # print (C_X2)
     print(f"El coeficiente A de su ecuación de la recta es: {A}")
     print(f"El coeficiente B de su ecuación de la recta es: {B}")
     print(f"El coeficiente X1 de su ecuación de la recta es: {X1}")
